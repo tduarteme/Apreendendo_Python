@@ -14,5 +14,5 @@ sleep(2)
 
 if jogador == computador:   
     print("Acertou MIZERAVI!")
-else:
-    print("ERROU, eu pensei no número {}!".format(computador))
+else:S
+    print("ERROU, eu pensei no número {}!".format(computador))ff
