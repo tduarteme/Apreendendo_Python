@@ -16,5 +16,3 @@ if jogador == computador:
     print("Acertou MIZERAVI!")
 else:
     print("ERROU, eu pensei no número {}!".format(computador))
-
-    #teste
